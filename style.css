@@ -23,3 +23,7 @@
   font-size: 18px;
   shape-rendering: geometricPrecision;
 }
+
+.title {
+  text-align: center;
+}
